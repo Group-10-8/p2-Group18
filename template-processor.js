@@ -2,7 +2,7 @@
  * @file template-processor.js
  * @summary Fills {{key}} placeholders in a template string using a dictionary.
  * @author Group 18
- * @updated Sep. 13, 2025
+ * @updated Sep. 13, 2025,
  */
 
 'use strict';
